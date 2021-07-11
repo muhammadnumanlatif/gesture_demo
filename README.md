@@ -19,9 +19,8 @@ You not only want to display information to users, you want users to interact wi
             <td><code>XMLHTTPRequest</code></td>
         </tr>
         <tr>
-            <td>![Button](Screenshot_1626003850.png)</td>
-            <td>![Gesture](Screenshot_1626003856.png)</td>
-            
+               <td><img src="Screenshot_1626003850.png" width=270 height=480></td>
+    <td><img src="Screenshot_1626003856.png" width=270 height=480></td>
         </tr>
     </tbody>
   </table>
